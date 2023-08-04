@@ -210,11 +210,7 @@ public class telaJogo extends JFrame {
                 voltar.setVisible(true);
                 return;
     }         
-    
-      
-         
-         
-               System.out.println("N„o h· vencedor ainda");
+               System.out.println("N√£o h√° vencedor ainda");
    }
    
    
@@ -244,11 +240,6 @@ public class telaJogo extends JFrame {
          voltar.setVisible(true);
          
       }
-      
-
-
-
-
 
    }
    
